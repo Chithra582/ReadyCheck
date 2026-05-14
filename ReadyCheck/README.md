@@ -11,6 +11,14 @@ The "ReadyCheck" methodology focuses on four core dimensions that recruiters pri
 3.  **Communication Clarity:** Using voice transcription to detect filler words, STAR structure, and optimal pacing.
 4.  **Portfolio Quality:** Evaluating GitHub activity, project diversity, and "recency" of contributions.
 
+---
+
+### Screen Record Video Drive Link
+
+https://drive.google.com/file/d/15fpNLe46h1A5maw5PlkysKIi6i3m8hND/view?usp=sharing
+
+---
+
 ### Parallel Processing Architecture
 To achieve the < 2-minute goal, ReadyCheck simulates a parallel execution flow:
 *   **Claude 3 API** for deep resume/JD matching and action plan generation.
